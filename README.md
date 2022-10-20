@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **nvoevodin/nvoevodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: voevodin.nv@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Wrote a book - you can get familiar with my thought process by checking it out (nikitavoevodin.com)
--->
+
