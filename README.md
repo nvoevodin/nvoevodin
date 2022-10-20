@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on documenting a bunch of my existing projects. Some of them are huge and scattered across multiple locations. 
 - 🌱 I’m currently learning DuckDB for local big data warehousing
 - 💬 Ask me about R, Python, React, React-Native Expo, SQL, and peripheral infrastructural solutions for hosting and backend.
